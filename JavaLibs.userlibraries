@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<eclipse-userlibraries version="2">
+    <library name="Commons" systemlibrary="false">
+        <archive path="/JavaLibs/Commons/commons-beanutils-1.7.0.jar"/>
+        <archive path="/JavaLibs/Commons/commons-codec-1.9.jar"/>
+        <archive path="/JavaLibs/Commons/commons-collections-3.2.1.jar"/>
+        <archive path="/JavaLibs/Commons/commons-httpclient-3.1.jar"/>
+        <archive path="/JavaLibs/Commons/commons-io-2.4.jar"/>
+        <archive path="/JavaLibs/Commons/commons-lang-2.3.jar"/>
+        <archive path="/JavaLibs/Commons/commons-lang3-3.3.2.jar"/>
+        <archive path="/JavaLibs/Commons/commons-logging-1.1.3.jar"/>
+    </library>
+    <library name="HtmlUnit" systemlibrary="false">
+        <archive path="/JavaLibs/HtmlUnit/cssparser-0.9.14.jar"/>
+        <archive path="/JavaLibs/HtmlUnit/htmlunit-2.15.jar"/>
+        <archive path="/JavaLibs/HtmlUnit/htmlunit-core-js-2.15.jar"/>
+        <archive path="/JavaLibs/HtmlUnit/httpclient-4.3.3.jar"/>
+        <archive path="/JavaLibs/HtmlUnit/httpcore-4.3.2.jar"/>
+        <archive path="/JavaLibs/HtmlUnit/httpmime-4.3.3.jar"/>
+        <archive path="/JavaLibs/HtmlUnit/jetty-http-8.1.15.v20140411.jar"/>
+        <archive path="/JavaLibs/HtmlUnit/jetty-io-8.1.15.v20140411.jar"/>
+        <archive path="/JavaLibs/HtmlUnit/jetty-util-8.1.15.v20140411.jar"/>
+        <archive path="/JavaLibs/HtmlUnit/jetty-websocket-8.1.15.v20140411.jar"/>
+        <archive path="/JavaLibs/HtmlUnit/nekohtml-1.9.21.jar"/>
+        <archive path="/JavaLibs/HtmlUnit/sac-1.3.jar"/>
+        <archive path="/JavaLibs/HtmlUnit/serializer-2.7.1.jar"/>
+        <archive path="/JavaLibs/HtmlUnit/xalan-2.7.1.jar"/>
+        <archive path="/JavaLibs/HtmlUnit/xercesImpl-2.11.0.jar"/>
+        <archive path="/JavaLibs/HtmlUnit/xml-apis-1.4.01.jar"/>
+    </library>
+    <library name="Log4j2" systemlibrary="false">
+        <archive path="/JavaLibs/Log4j2/log4j-api-2.0-rc1.jar"/>
+        <archive path="/JavaLibs/Log4j2/log4j-core-2.0-rc1.jar"/>
+    </library>
+    <library name="ZUtilLib" systemlibrary="false">
+        <archive path="/JavaLibs/ZUtilLib/ant.jar"/>
+        <archive path="/JavaLibs/ZUtilLib/jsoup-1.6.3.jar"/>
+        <archive path="/JavaLibs/ZUtilLib/jxl.jar"/>
+        <archive path="/JavaLibs/ZUtilLib/lingpipe-4.1.0.jar"/>
+        <archive path="/JavaLibs/ZUtilLib/trove-3.0.3.jar"/>
+        <archive path="/JavaLibs/ZUtilLib/ZHConverter.jar"/>
+    </library>
+</eclipse-userlibraries>
